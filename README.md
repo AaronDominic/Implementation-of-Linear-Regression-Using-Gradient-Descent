@@ -85,11 +85,11 @@ print("For population = 70000,we predict a profit of $"+str(round(predict2,0)))
 
 ## Output:
 ### Profit Prediction
-![output](Profit_Prediction1.png)
+![output](Profit_Prediction1.PNG)
 ### Cost Function using Gradient Descent
-![output](Cost_Function.png)
+![output](Cost_Function.PNG)
 ### Profit Prediction
-![output](Profit_Prediction2.png)
+![output](Profit_Prediction2.PNG)
 ### Values
 ![output](Profit3.PNG)
 
